@@ -207,5 +207,7 @@ _.extend(jdefer, {
 });
 
 module.exports = function(){
+
 	return new jdefer.Deferred();
+	
 }
