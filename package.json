@@ -1,5 +1,6 @@
 {
 	"name" : "jdefer",
+	"version" : "0.0.1",
 	"main" : "./jdefer.js",
 	"dependencies": {
 		"underscore": "*"
